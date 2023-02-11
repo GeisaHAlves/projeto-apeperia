@@ -1,2 +1,2 @@
 # projeto-apeperia
-Aplicativos na Medida para pequenas e médias empresas
+Arquivos do projeto para a Apeperia
